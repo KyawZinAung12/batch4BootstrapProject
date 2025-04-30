@@ -1,0 +1,18 @@
+.nav_hover:hover{
+    color: red !important;
+}
+.cart_noti{
+    position: relative;
+    top: -15px;
+    left: -7px;
+    background-color: red;
+    color: white;
+    padding: 1px 6px;
+    border-radius: 50%;
+}
+
+* {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
