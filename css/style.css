@@ -220,3 +220,7 @@
 .new_arrival_img_hover img:hover{
     opacity: 0.5;
 }
+
+.shadow_box{
+    box-shadow: 10px 20px 20px rgba(0, 0, 0, .30);
+}
